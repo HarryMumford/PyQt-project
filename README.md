@@ -1,0 +1,3 @@
+# PyQt project
+
+## Installation instructions
